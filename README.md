@@ -30,6 +30,5 @@ Explain how to help and contribute to the project.
 
 
 
-Author(s)
-name
- email
+Author(s): Amari Richardson | arichardson3@stu.jsu.edu
+
